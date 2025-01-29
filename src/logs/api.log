@@ -1,0 +1,10 @@
+2025-01-29 11:27:10,987 - api.routes - INFO - {'email': 'nkangprecious26@gmail.com', 'current_datetime': '2025-01-29T10:27:10.987638+00:00Z', 'github_url': 'https://github.com/nkangprecious26'}
+2025-01-29 11:30:14,887 - api.routes - INFO - {'email': 'nkangprecious26@gmail.com', 'current_datetime': '2025-01-29T10:30:14.887349+00:00Z', 'github_url': 'https://github.com/nkangprecious26'}
+2025-01-29 11:37:28,093 - api.routes - INFO - {'email': 'nkangprecious26@gmail.com', 'current_datetime': '2025-01-29T10:37:28.093179+00:00Z', 'github_url': 'https://github.com/nkangprecious26'}
+2025-01-29 11:37:28,094 - api.routes - ERROR - Error in Task.get(): 'str' object has no attribute 'isoformat'
+2025-01-29 11:42:31,979 - api.routes - INFO - {'email': 'nkangprecious26@gmail.com', 'current_datetime': '2025-01-29T10:42:31.979465+00:00Z', 'github_url': 'https://github.com/nkangprecious26'}
+2025-01-29 11:42:31,982 - api.routes - INFO - {'email': 'nkangprecious26@gmail.com', 'current_datetime': '2025-01-29T10:42:31.979465+00:00Z', 'github_url': 'https://github.com/nkangprecious26'}
+2025-01-29 11:52:15,908 - api.routes - INFO - {'email': 'nkangprecious26@gmail.com', 'current_datetime': '2025-01-29T10:52:15.908815+00:00Z', 'github_url': 'https://github.com/nkangprecious26'}
+2025-01-29 11:52:15,937 - api.routes - INFO - {'email': 'nkangprecious26@gmail.com', 'current_datetime': '2025-01-29T10:52:15.908815+00:00Z', 'github_url': 'https://github.com/nkangprecious26'}
+2025-01-29 11:54:20,335 - api.routes - INFO - {'email': 'nkangprecious26@gmail.com', 'current_datetime': '2025-01-29T10:54:20.335118+00:00Z', 'github_url': 'https://github.com/nkangprecious26'}
+2025-01-29 11:54:20,338 - api.routes - INFO - {'email': 'nkangprecious26@gmail.com', 'current_datetime': '2025-01-29T10:54:20.335118+00:00Z', 'github_url': 'https://github.com/nkangprecious26'}

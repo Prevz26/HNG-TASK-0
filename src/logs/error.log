@@ -1,0 +1,3 @@
+2025-01-29 11:21:17,126 - api.exception - ERROR - Internal Server Error: Object of type AttributeError is not JSON serializable
+2025-01-29 11:22:56,236 - api.exception - ERROR - Internal Server Error: Object of type AttributeError is not JSON serializable
+2025-01-29 11:24:32,597 - api.exception - ERROR - Internal Server Error: Object of type AttributeError is not JSON serializable
