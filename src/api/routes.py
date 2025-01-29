@@ -40,7 +40,7 @@ class Task(Resource):
             data = {
                 "email": "nkangprecious26@gmail.com", 
                 "current_datetime": time,
-                "github_url": "https://github.com/nkangprecious26"
+                "github_url": "https://github.com/Prevz26/HNG-TASK-0.git"
             }
             logger.info(data)
             final_data = response.dump(data)
